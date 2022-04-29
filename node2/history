@@ -1,0 +1,6 @@
+
+admin.enode
+admin.nodeInfo.enode
+eth.blockNumber
+admin.nodeInfo.enode
+exit()

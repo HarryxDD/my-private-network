@@ -1,0 +1,44 @@
+=============== Apr 29, 2022 (+07) ===============
+13:13:01.205273 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:13:01.212657 db@open opening
+13:13:01.213686 version@stat F·[] S·0B[] Sc·[]
+13:13:01.217397 db@janitor F·2 G·0
+13:13:01.217397 db@open done T·4.228ms
+13:13:01.226238 db@close closing
+13:13:01.226749 db@close done T·510.2µs
+=============== Apr 29, 2022 (+07) ===============
+13:24:39.970286 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:24:39.971284 version@stat F·[] S·0B[] Sc·[]
+13:24:39.971284 db@open opening
+13:24:39.971284 journal@recovery F·1
+13:24:39.972281 journal@recovery recovering @1
+13:24:39.988758 memdb@flush created L0@2 N·621 S·51KiB "\x02d\xfc..\x19Ba,v428":"\xfe\x88\xcf..H\xef\xcc,v361"
+13:24:39.991026 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+13:24:40.038594 db@janitor F·3 G·0
+13:24:40.038594 db@open done T·67.3093ms
+13:31:41.591832 db@close closing
+13:31:41.591832 db@close done T·505.1µs
+=============== Apr 29, 2022 (+07) ===============
+13:31:53.129338 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:31:53.129338 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+13:31:53.129338 db@open opening
+13:31:53.129338 journal@recovery F·1
+13:31:53.131340 journal@recovery recovering @3
+13:31:53.134324 memdb@flush created L0@5 N·608 S·30KiB "\x1c\x84Z..\xbd2j,v1228":"Ҫ\xa2..\x8f\xae\xb0,v1226"
+13:31:53.136319 version@stat F·[2] S·81KiB[81KiB] Sc·[0.50]
+13:31:53.148286 db@janitor F·4 G·0
+13:31:53.148286 db@open done T·18.948ms
+13:31:58.971207 db@close closing
+13:31:58.971207 db@close done T·0s
+=============== Apr 29, 2022 (+07) ===============
+13:32:06.586347 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:32:06.586859 version@stat F·[2] S·81KiB[81KiB] Sc·[0.50]
+13:32:06.586859 db@open opening
+13:32:06.586859 journal@recovery F·1
+13:32:06.588935 journal@recovery recovering @6
+13:32:06.591827 memdb@flush created L0@8 N·17 S·3KiB "&q\x18..\xaek\xbf,v1247":"y{\xf5..\x94\x8f\x96,v1245"
+13:32:06.593885 version@stat F·[3] S·85KiB[85KiB] Sc·[0.75]
+13:32:06.605366 db@janitor F·5 G·0
+13:32:06.605366 db@open done T·18.5076ms
+14:16:48.407293 db@close closing
+14:16:48.407293 db@close done T·0s

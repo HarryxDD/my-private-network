@@ -1,0 +1,32 @@
+=============== Apr 29, 2022 (+07) ===============
+13:13:23.746260 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:13:23.754225 db@open opening
+13:13:23.755227 version@stat F·[] S·0B[] Sc·[]
+13:13:23.759014 db@janitor F·2 G·0
+13:13:23.759014 db@open done T·4.7891ms
+13:13:23.767619 db@close closing
+13:13:23.767619 db@close done T·0s
+=============== Apr 29, 2022 (+07) ===============
+13:25:09.718773 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:25:09.719284 version@stat F·[] S·0B[] Sc·[]
+13:25:09.719284 db@open opening
+13:25:09.719284 journal@recovery F·1
+13:25:09.722275 journal@recovery recovering @1
+13:25:09.753100 memdb@flush created L0@2 N·621 S·51KiB "\x02d\xfc..\x19Ba,v428":"\xfe\x88\xcf..H\xef\xcc,v361"
+13:25:09.755096 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+13:25:09.860667 db@janitor F·3 G·0
+13:25:09.860667 db@open done T·141.3826ms
+13:25:19.532805 db@close closing
+13:25:19.532805 db@close done T·0s
+=============== Apr 29, 2022 (+07) ===============
+13:36:56.680628 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:36:56.680628 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+13:36:56.680628 db@open opening
+13:36:56.680628 journal@recovery F·1
+13:36:56.682898 journal@recovery recovering @3
+13:36:56.687478 memdb@flush created L0@5 N·264 S·10KiB "Dat..ion,v624":"unc..own,v886"
+13:36:56.690143 version@stat F·[2] S·62KiB[62KiB] Sc·[0.50]
+13:36:56.705612 db@janitor F·4 G·0
+13:36:56.705612 db@open done T·24.9836ms
+13:42:07.025698 db@close closing
+13:42:07.025698 db@close done T·0s
